@@ -1,7 +1,7 @@
 
     @font-face{
       font-family:  "outfit";
-      src: url('./fonts/Outfit/Outfit-VariableFont_wght.ttf');
+      src: url('Outfit-VariableFont_wght.ttf');
     }
 
     .attribution { font-size: 11px; text-align: center; }
